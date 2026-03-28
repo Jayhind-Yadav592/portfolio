@@ -1,6 +1,6 @@
 
 // ── Typing animation ──
-const roles = ['Full Stack Developer', 'Python & Django Developer', 'Backend Developer', 'REST API Developer'];
+const roles = ['Full Stack Developer', 'Python & Django Developer', 'Backend Developer', 'REST API Developer','Frontend Developer'];
 let ri = 0, ci = 0, del = false;
 const el = document.getElementById('typed');
 function type() {
